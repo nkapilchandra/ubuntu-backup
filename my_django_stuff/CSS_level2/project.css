@@ -1,0 +1,33 @@
+#heading{
+  text-align: center;
+  font-family: 'Handlee', cursive;
+}
+
+td{
+  height: 200px;
+  width: 100px;
+  background-color: black;
+  border: 6px solid white;
+}
+
+.my_table{
+  margin:auto;
+}
+
+#one{
+  background-color: #247ba0;
+}
+#two{
+  background-color: #70c1b3;
+}
+#three{
+  background-color: #b2dbbf;
+}
+
+#four{
+  background-color: #f3ffbd;
+}
+
+#five{
+  background-color: #ff1654;
+}
